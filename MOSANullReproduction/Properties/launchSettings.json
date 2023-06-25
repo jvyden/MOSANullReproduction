@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"MOSANullReproduction": {
+			"commandName": "Executable",
+			"executablePath": "dotnet",
+			"commandLineArgs": "Tools/Mosa.Tool.Launcher.dll MOSANullReproduction.dll",
+			"workingDirectory": ""
+		}
+	}
+}
